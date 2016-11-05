@@ -1,0 +1,3 @@
+1. Controller starts out active. You can toggle this state using the grip buttons on the side of each controller, so if anyone complains that their controller is white and going through the keys, just press that button. Likewise, if anyone complains that their controller is stuck in the instrument, just click the grip button, move the controller out, and click it again.
+
+2. Advise users to hold the controller sideways, so that the pointy edge of the ring at the top of the controller hits the keys. Makes for a better playing experience and a more pleasant listening one.
